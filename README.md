@@ -1,5 +1,6 @@
 # M04Assessment
- 
+
+Note: The PowerBI dashboard for this project can be shared on request. (dgerber@dev-10.com)  
 ## Introduction
 In the Power BI module, we covered everything from creating a report to using slicers, groups, and bins, customizing visualizations, using quick insights, and working with Excel.
 
